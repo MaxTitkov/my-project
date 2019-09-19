@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MaxTitkov/my-project.svg?branch=master)](https://travis-ci.org/MaxTitkov/my-project)
+
 ~text~
 
 * one
